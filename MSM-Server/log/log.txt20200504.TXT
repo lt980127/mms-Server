@@ -1,0 +1,303 @@
+2020-05-04 10:45:56,438 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 10:45:56,455 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 10:45:56,460 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 10:46:01,388 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:46:01 开始调用 GetMemberInfo api;参数为：{}
+2020-05-04 10:46:05,735 [10] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:46:05 调用 GetMemberInfo api完成;执行结果："{\"ResultCode\":0,\"ResultMsg\":null,\"Data\":[{\"ID\":1,\"UserName\":\"刘涛\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"}]}"
+2020-05-04 10:52:28,555 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 10:52:28,586 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 10:52:28,593 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 10:52:32,727 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:52:32 开始调用 GetMemberInfo api;参数为：{}
+2020-05-04 10:52:33,189 [10] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:52:33 调用 GetMemberInfo api完成;执行结果："{\"ResultCode\":1,\"ResultMsg\":\"“form”附近有语法错误。\",\"Data\":null}"
+2020-05-04 10:57:33,680 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 10:57:33,697 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 10:57:33,703 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 10:57:37,554 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:57:37 开始调用 GetMemberInfo api;参数为：{}
+2020-05-04 10:57:37,973 [4] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:57:37 调用 GetMemberInfo api完成;执行结果："{\"status\":\"success\",\"data\":{\"ResultCode\":0,\"ResultMsg\":null,\"Data\":[{\"ID\":1,\"UserName\":\"刘涛\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"}]},\"date\":\"2020/5/4\"}"
+2020-05-04 10:58:01,500 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 10:58:01,520 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 10:58:01,527 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 10:58:05,501 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:58:05 开始调用 GetMemberInfo api;参数为：{}
+2020-05-04 10:58:05,839 [7] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:58:05 调用 GetMemberInfo api完成;执行结果："{\"status\":\"success\",\"data\":{\"ResultCode\":0,\"ResultMsg\":null,\"Data\":[{\"ID\":1,\"UserName\":\"刘涛\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"}]},\"date\":\"2020-05-04T10:58:05.7997995+08:00\"}"
+2020-05-04 10:59:33,970 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 10:59:33,986 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 10:59:33,993 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 10:59:38,089 [7] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:59:38 开始调用 GetMemberInfo api;参数为：{}
+2020-05-04 10:59:38,419 [4] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 10:59:38 调用 GetMemberInfo api完成;执行结果："{\"status\":\"success\",\"data\":{\"ResultCode\":0,\"ResultMsg\":null,\"Data\":[{\"ID\":1,\"UserName\":\"刘涛\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"}]},\"date\":\"2020-05-04 10:59:38\"}"
+2020-05-04 11:19:12,073 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 11:19:12,087 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 11:19:12,093 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 11:20:52,503 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 11:20:52,523 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 11:20:52,530 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 11:21:38,146 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 11:21:38 开始调用 GetMemberInfo api;参数为：{}
+2020-05-04 11:21:38,511 [19] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 11:21:38 调用 GetMemberInfo api完成;执行结果："{\"status\":\"success\",\"data\":{\"ResultCode\":0,\"ResultMsg\":null,\"Data\":[{\"ID\":1,\"UserName\":\"刘涛\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"}]},\"date\":\"2020-05-04 11:21:38\"}"
+2020-05-04 12:00:50,365 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 12:00:50,380 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 12:00:50,386 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 12:05:59,187 [23] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:05:59 开始调用 Login api;参数为：{"info":"{     \"info\": {         \"Account\": \"\\\"123456\\\"\",         \"Password\": \"\\\"123456\\\"\"     } }"}
+2020-05-04 12:08:17,566 [23] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:08:17 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号不能为空\",\"date\":\"2020-05-04 12:08:17\"}"
+2020-05-04 12:08:41,906 [5] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:08:41 开始调用 Login api;参数为：{"info":"{\"Account\":\"123456\",\"Password\":\"123456\"}"}
+2020-05-04 12:09:38,691 [33] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:09:38 调用 Login api完成;执行结果："{\"status\":\"fail\",\"data\":true,\"date\":\"2020-05-04 12:09:34\"}"
+2020-05-04 12:12:13,026 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 12:12:13,039 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 12:12:13,046 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 12:13:00,829 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 12:13:00,842 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 12:13:00,850 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 12:13:33,684 [5] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:13:33 开始调用 Login api;参数为：{"info":"{\"Account\":\"123456\",\"Password\":\"123456\"}"}
+2020-05-04 12:14:32,508 [18] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:14:32 开始调用 Login api;参数为：{"info":"{\"Account\":\"123456\",\"Password\":\"123456\"}"}
+2020-05-04 12:15:05,555 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 12:15:05,570 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 12:15:05,576 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 12:15:35,325 [13] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:15:35 开始调用 Login api;参数为：{"info":"{\"Account\":\"123456\",\"Password\":\"123456\"}"}
+2020-05-04 12:15:51,115 [5] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 12:15:51 调用 Login api完成;执行结果："{\"status\":\"success\",\"data\":{\"ID\":1,\"UserName\":\"admin\",\"Account\":\"123456\",\"Password\":\"e10adc3949ba59abbe56e057f20f883e\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},\"date\":\"2020-05-04 12:15:48\"}"
+2020-05-04 15:31:54,084 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 15:31:54,100 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 15:31:54,106 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 16:02:17,170 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 16:02:17,184 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 16:02:17,191 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 16:32:38,522 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 16:32:38,538 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 16:32:38,545 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 16:32:38,966 [7] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Ambiguous HTTP method for action - MSM_Server.Controllers.LoginController.GetToken (MSM-Server). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:32:59,482 [6] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Ambiguous HTTP method for action - MSM_Server.Controllers.LoginController.GetToken (MSM-Server). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:33:08,945 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 16:33:08,961 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 16:33:08,969 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 16:33:34,381 [13] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:33:34 开始调用 Login api;参数为：{"info":"{\"Account\":\"123456\",\"Password\":\"123456\"}"}
+2020-05-04 16:33:37,462 [5] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:33:37 调用 Login api完成;执行结果："{\"status\":\"success\",\"data\":{\"ID\":1,\"UserName\":\"admin\",\"Account\":\"123456\",\"Password\":\"e10adc3949ba59abbe56e057f20f883e\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},\"date\":\"2020-05-04 16:33:37\",\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1ODg1ODEyMTcsImV4cCI6MTU4ODYyNDQxNywiaWF0IjoxNTg4NTgxMjE3LCJpc3MiOiJqd3RJc3N1ZXJUZXN0IiwiYXVkIjoiand0QXVkaWVuY2VUZXN0In0.bwk66r1LUx1GDUqtYkUj-unLQHEUkxXJoI4HX0SP-no\"}"
+2020-05-04 16:34:24,334 [17] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:34:24 开始调用 Login api;参数为：{}
+2020-05-04 16:35:18,136 [17] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:35:33,578 [17] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:35:33 开始调用 Login api;参数为：{}
+2020-05-04 16:36:12,940 [17] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:37:12,990 [29] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:37:12 开始调用 Login api;参数为：{}
+2020-05-04 16:41:25,255 [31] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:41:25 开始调用 Login api;参数为：{}
+2020-05-04 16:41:25,258 [29] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:41:27,258 [31] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:41:32,387 [30] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:41:32 开始调用 Login api;参数为：{}
+2020-05-04 16:41:54,820 [35] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:41:53 开始调用 Login api;参数为：{}
+2020-05-04 16:41:54,825 [30] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:41:56,722 [35] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:42:08,917 [29] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:42:08 开始调用 Login api;参数为：{}
+2020-05-04 16:42:28,841 [29] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:42:39,021 [29] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:42:39 开始调用 Login api;参数为：{}
+2020-05-04 16:43:41,352 [30] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:43:41 开始调用 Login api;参数为：{}
+2020-05-04 16:43:41,353 [29] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:43:43,091 [30] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:43:50,171 [42] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:43:50 开始调用 Login api;参数为：{}
+2020-05-04 16:43:54,474 [42] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:44:08,357 [33] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:44:08 开始调用 Login api;参数为：{}
+2020-05-04 16:44:45,100 [43] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:44:45 开始调用 Login api;参数为：{"info":"{\"Account\":\"hhh\",\"Password\":\"123456\"}"}
+2020-05-04 16:44:45,103 [33] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSM_Server.Utility.LogIActionFilterAttribute.OnActionExecuted(ActionExecutedContext context) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Utility\LogIActionFilterAttribute.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-04 16:45:38,117 [44] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:45:38 调用 Login api完成;执行结果："{\"status\":\"success\",\"data\":null,\"date\":\"2020-05-04 16:45:38\",\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1ODg1ODE5MzgsImV4cCI6MTU4ODYyNTEzOCwiaWF0IjoxNTg4NTgxOTM4LCJpc3MiOiJqd3RJc3N1ZXJUZXN0IiwiYXVkIjoiand0QXVkaWVuY2VUZXN0In0.VkUHOyEQ-t05LQJl9qLFybYvHPwqe283Q0Wgvhrt0Z0\"}"
+2020-05-04 16:45:56,761 [44] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:45:56 开始调用 Login api;参数为：{"info":"{\"Account\":\"hhh\",\"Password\":\"123456\"}"}
+2020-05-04 16:46:01,057 [41] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:46:01 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-04 16:46:01\"}"
+2020-05-04 16:49:24,254 [49] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 16:49:24 开始调用 Login api;参数为：{}
+2020-05-04 16:59:29,723 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 16:59:29,744 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 16:59:29,752 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 17:00:52,001 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 17:00:51 开始调用 Login api;参数为：{}
+2020-05-04 17:06:17,539 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-04 17:06:17,561 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-04 17:06:17,573 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-04 17:06:58,446 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/4 17:06:58 开始调用 Login api;参数为：{}

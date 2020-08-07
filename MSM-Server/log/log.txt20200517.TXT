@@ -1,0 +1,111 @@
+2020-05-17 09:02:50,000 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 09:02:50,025 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 09:02:50,040 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 09:08:36,936 [22] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 9:08:36 开始调用 PageGetSupplierInfo api;参数为：{"info":"{     \"CurrentPage\": 1,     \"PageSize\": 10,     \"supplierQueryInfo\": {} }"}
+2020-05-17 09:09:30,455 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 09:09:30,468 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 09:09:30,474 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 09:10:18,184 [5] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 9:10:18 开始调用 PageGetSupplierInfo api;参数为：{"info":"{     \"CurrentPage\": 1,     \"PageSize\": 10,     \"supplierQueryInfo\": {} }"}
+2020-05-17 09:10:42,095 [17] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 9:10:42 调用 PageGetSupplierInfo api完成;执行结果："{\"status\":\"success\",\"data\":{\"total\":11,\"SupplierInfos\":[{\"ID\":1,\"Name\":\"石干代县己离\",\"LinkName\":\"白涛\",\"Mobile\":\"13163428916\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":2,\"Name\":\"因区光东之\",\"LinkName\":\"沈明\",\"Mobile\":\"13755851585\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":3,\"Name\":\"计增回\",\"LinkName\":\"夏明\",\"Mobile\":\"13138050944\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":4,\"Name\":\"式十主\",\"LinkName\":\"万芳\",\"Mobile\":\"13930162616\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":5,\"Name\":\"单色出\",\"LinkName\":\"李娜\",\"Mobile\":\"13925888426\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":6,\"Name\":\"拉音率光\",\"LinkName\":\"夏秀英\",\"Mobile\":\"13762117706\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":7,\"Name\":\"龙大界素队\",\"LinkName\":\"伊方\",\"Mobile\":\"13154906619\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":8,\"Name\":\"复定示统而结\",\"LinkName\":\"杨洋\",\"Mobile\":\"13517918676\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":9,\"Name\":\"算产己史需酸\",\"LinkName\":\"城防\",\"Mobile\":\"13995940007\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},{\"ID\":10,\"Name\":\"委体和么代\",\"LinkName\":\"程杰\",\"Mobile\":\"13512710569\",\"Remark\":null,\"Creater\":\"Admin\",\"CreateTime\":\"2020-05-17T08:58:46.63\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"}]},\"date\":\"2020/5/17\"}"
+2020-05-17 10:26:05,688 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:26:05,701 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:26:05,708 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:26:06,020 [11] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Conflicting method/path combination "POST api/Supplier" for actions - MSM_Server.Controllers.SupplierController.PageGetSupplierInfo (MSM-Server),MSM_Server.Controllers.SupplierController.AddSupplierInfo (MSM-Server),MSM_Server.Controllers.SupplierController.UpdateSupplierInfo (MSM-Server),MSM_Server.Controllers.SupplierController.deleteSupplierInfo (MSM-Server). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-17 10:33:02,371 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:33:02,389 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:33:02,395 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:33:02,678 [9] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Conflicting method/path combination "POST api/Supplier" for actions - MSM_Server.Controllers.SupplierController.PageGetSupplierInfo (MSM-Server),MSM_Server.Controllers.SupplierController.AddSupplierInfo (MSM-Server),MSM_Server.Controllers.SupplierController.UpdateSupplierInfo (MSM-Server),MSM_Server.Controllers.SupplierController.deleteSupplierInfo (MSM-Server). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-17 10:35:02,539 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:35:02,561 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:35:02,568 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:35:42,640 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:35:42,653 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:35:42,660 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:36:52,700 [19] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:36:52 开始调用 deleteSupplierInfo api;参数为：{"ID":3}
+2020-05-17 10:36:53,039 [23] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:36:53 调用 deleteSupplierInfo api完成;执行结果："{\"status\":\"success\",\"data\":true,\"date\":\"2020/5/17\"}"
+2020-05-17 10:39:09,013 [26] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:39:09 开始调用 AddSupplierInfo api;参数为：{"info":"{     \"Name\": \"来了来了\",     \"LinkName\": \"刘涛\",     \"Mobile\": \"13533335555\",     \"Remark\": \"测试\",     \"Creater\": \"刘涛\" }"}
+2020-05-17 10:39:55,810 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:39:55,828 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:39:55,834 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:40:23,128 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:40:23,141 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:40:23,147 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:41:04,909 [18] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:41:04 开始调用 AddSupplierInfo api;参数为：{"info":"{     \"Name\": \"来了来了\",     \"LinkName\": \"刘涛\",     \"Mobile\": \"13533335555\",     \"Remark\": \"测试\",     \"Creater\": \"刘涛\" }"}
+2020-05-17 10:41:43,381 [21] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:41:41 调用 AddSupplierInfo api完成;执行结果："{\"status\":\"success\",\"data\":true,\"date\":\"2020/5/17\"}"
+2020-05-17 10:43:44,577 [26] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:43:44 开始调用 UpdateSupplierInfo api;参数为：{"info":"{     \"Name\": \"来了老弟\",     \"LinkName\": \"刘涛\",     \"Mobile\": \"13533335555\",     \"Remark\": \"测试\",     \"ID\": 13,     \"Updator\": \"刘涛\" }"}
+2020-05-17 10:44:25,886 [29] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:44:25 调用 UpdateSupplierInfo api完成;执行结果："{\"status\":\"fail\",\"message\":\"必须声明标量变量 \\\"@Updator\\\"。\",\"date\":\"2020/5/17\"}"
+2020-05-17 10:44:43,223 [33] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:44:43 开始调用 UpdateSupplierInfo api;参数为：{"info":"{     \"Name\": \"来了老弟\",     \"LinkName\": \"刘涛\",     \"Mobile\": \"13533335555\",     \"Remark\": \"测试\",     \"ID\": 13,     \"Updater\": \"刘涛\" }"}
+2020-05-17 10:45:22,560 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 10:45:22,579 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 10:45:22,585 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 10:46:14,714 [6] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:46:14 开始调用 UpdateSupplierInfo api;参数为：{"info":"{     \"Name\": \"来了老弟\",     \"LinkName\": \"刘涛\",     \"Mobile\": \"13533335555\",     \"Remark\": \"测试\",     \"ID\": 13,     \"Updater\": \"刘涛\" }"}
+2020-05-17 10:46:34,979 [21] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 10:46:34 调用 UpdateSupplierInfo api完成;执行结果："{\"status\":\"success\",\"data\":true,\"date\":\"2020/5/17\"}"
+2020-05-17 15:08:06,564 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 15:08:06,579 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 15:08:06,585 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 15:11:54,953 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:11:54 开始调用 AddGoodsInfo api;参数为：{"info":"{     \"Name\": \"食物\",     \"Code\": \"food\",     \"Spec\": \"1kg/袋\",     \"RetailPrice\": 20,     \"PurchasePrice\": 23.5,     \"StorageNum\": 200,     \"SupplierID\": 1,     \"Creater\": \"刘涛\" }"}
+2020-05-17 15:12:29,258 [5] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:12:28 调用 AddGoodsInfo api完成;执行结果："{\"status\":\"success\",\"data\":true,\"date\":\"2020-05-17T15:12:25.3115466+08:00\"}"
+2020-05-17 15:15:39,666 [23] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:15:39 开始调用 GetPageGoodsInfo api;参数为：{"info":"{     \"CurrentPage\": \"\",     \"PageSize\": \"\",     \"GoodsQueryInfo\": {         \"Name\": \"\",         \"Code\": \"\",         \"SupplierId\": 0     } }"}
+2020-05-17 15:15:56,957 [23] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:15:56 调用 GetPageGoodsInfo api完成;执行结果：""
+2020-05-17 15:15:57,017 [23] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Newtonsoft.Json.JsonSerializationException: Error converting value {null} to type 'System.Int32'. Path 'CurrentPage', line 1, position 23.
+ ---> System.InvalidCastException: Null object cannot be converted to a value type.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- End of inner exception stack trace ---
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at MSM_Server.Controllers.GoodsController.GetPageGoodsInfo(String info) in D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server\Controllers\GoodsController.cs:line 29
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-05-17 15:16:41,011 [19] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:16:41 开始调用 GetPageGoodsInfo api;参数为：{"info":"{     \"CurrentPage\": 1,     \"PageSize\": 20,     \"GoodsQueryInfo\": {         \"Name\": \"\",         \"Code\": \"\",         \"SupplierId\": 0     } }"}
+2020-05-17 15:18:38,245 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 15:18:38,258 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 15:18:38,265 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 15:20:13,270 [17] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:20:13 开始调用 GetPageGoodsInfo api;参数为：{"info":"{     \"CurrentPage\": 1,     \"PageSize\": 20,     \"GoodsQueryInfo\": {         \"Name\": \"\",         \"Code\": \"\",         \"SupplierId\": 0     } }"}
+2020-05-17 15:20:39,550 [22] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:20:39 调用 GetPageGoodsInfo api完成;执行结果："{\"status\":\"success\",\"data\":{\"total\":1,\"goodsInfos\":[{\"ID\":1,\"Name\":\"食物\",\"Code\":\"food\",\"Spec\":\"1kg/袋\",\"RetailPrice\":20.0,\"PurchasePrice\":24.0,\"StorageNum\":200,\"SupplierID\":\"1\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-17T15:12:16.753\",\"Updater\":null,\"UpdateTime\":null,\"SupplierName\":\"石干代县己离\"}]},\"date\":\"2020-05-17T15:20:36.6568414+08:00\"}"
+2020-05-17 15:22:16,818 [25] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:22:16 开始调用 UpdateGoodsInfo api;参数为：{"info":"{     \"ID\": 1,     \"Name\": \"食物\",     \"Code\": \"food\",     \"Spec\": \"1kg/袋\",     \"RetailPrice\": 20,     \"PurchasePrice\": 23.5,     \"StorageNum\": 127,     \"SupplierID\": 2,     \"Creater\": \"刘涛\" }"}
+2020-05-17 15:22:43,426 [30] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/17 15:22:43 调用 UpdateGoodsInfo api完成;执行结果："{\"status\":\"success\",\"data\":true,\"date\":\"2020-05-17T15:22:42.1794603+08:00\"}"
+2020-05-17 16:17:12,705 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 16:17:12,719 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 16:17:12,729 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-17 16:25:30,468 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-17 16:25:30,483 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-17 16:25:30,490 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server

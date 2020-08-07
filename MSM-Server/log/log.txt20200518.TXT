@@ -1,0 +1,48 @@
+2020-05-18 08:35:03,073 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-18 08:35:03,089 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-18 08:35:03,098 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-18 08:42:01,917 [7] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:42:01 开始调用 Login api;参数为：{"info":"{\"Account\":\"\",\"Password\":\"\"}"}
+2020-05-18 08:42:01,965 [7] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:42:01 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号不能为空\",\"date\":\"2020-05-18 08:42:01\"}"
+2020-05-18 08:55:37,901 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-18 08:55:37,919 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-18 08:55:37,933 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-18 08:55:51,283 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:55:51 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:58:19,188 [19] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:58:18 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:58:15\"}"
+2020-05-18 08:58:41,818 [19] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:58:41 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:58:41,835 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:58:41 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:58:41\"}"
+2020-05-18 08:59:34,523 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-18 08:59:34,538 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-18 08:59:34,545 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-18 08:59:47,296 [9] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:47 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:47,620 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:47 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:47\"}"
+2020-05-18 08:59:49,982 [16] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:49 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:50,022 [4] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:50 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:50\"}"
+2020-05-18 08:59:50,832 [8] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:50 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:50,868 [15] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:50 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:50\"}"
+2020-05-18 08:59:51,149 [8] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:51,192 [16] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:51\"}"
+2020-05-18 08:59:51,365 [8] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:51,401 [16] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:51\"}"
+2020-05-18 08:59:51,571 [16] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:51,604 [13] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:51\"}"
+2020-05-18 08:59:51,767 [13] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:51,801 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:51 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:51\"}"
+2020-05-18 08:59:59,222 [4] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:59 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 08:59:59,261 [16] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 8:59:59 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 08:59:59\"}"
+2020-05-18 09:00:35,375 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-18 09:00:35,388 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-18 09:00:35,394 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-18 09:00:48,182 [9] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:00:48 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 09:00:48,490 [4] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:00:48 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 09:00:48\"}"
+2020-05-18 09:02:27,998 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-18 09:02:28,019 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-18 09:02:28,026 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-18 09:02:42,308 [10] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:02:42 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 09:02:42,623 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:02:42 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 09:02:42\"}"
+2020-05-18 09:04:41,487 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-18 09:04:41,500 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-18 09:04:41,507 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-05-18 09:04:56,864 [14] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:04:56 开始调用 Login api;参数为：{"info":"{\"Account\":\"admin\",\"Password\":\"123456\"}"}
+2020-05-18 09:04:57,264 [13] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:04:57 调用 Login api完成;执行结果："{\"status\":\"fail\",\"message\":\"账号或用户名错误\",\"date\":\"2020-05-18 09:04:57\"}"
+2020-05-18 09:05:54,059 [19] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:05:54 开始调用 Login api;参数为：{"info":"{\"Account\":\"123456\",\"Password\":\"123456\"}"}
+2020-05-18 09:05:54,153 [23] INFO  MSM_Server.Utility.LogIActionFilterAttribute - 2020/5/18 9:05:54 调用 Login api完成;执行结果："{\"status\":\"success\",\"data\":{\"ID\":1,\"UserName\":\"admin\",\"Account\":\"123456\",\"Password\":\"e10adc3949ba59abbe56e057f20f883e\",\"Creater\":\"刘涛\",\"CreateTime\":\"2020-05-04T10:05:48\",\"Updater\":null,\"UpdateTime\":\"0001-01-01T00:00:00\"},\"date\":\"2020-05-18 09:05:54\",\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE1ODk3NjM5NTQsImV4cCI6MTU4OTgwNzE1NCwiaWF0IjoxNTg5NzYzOTU0LCJpc3MiOiJqd3RJc3N1ZXJUZXN0IiwiYXVkIjoiand0QXVkaWVuY2VUZXN0In0.Uo0Yaocovyoqq0j5ScJF02vR7mbt9ElJ8b6vBQitoD4\"}"
