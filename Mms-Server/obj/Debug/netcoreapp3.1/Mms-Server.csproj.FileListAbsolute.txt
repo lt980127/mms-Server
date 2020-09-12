@@ -7,3 +7,12 @@ D:\Code\MySelf\Own\MemberManager\MSM-Server\Mms-Server\obj\Debug\netcoreapp3.1\M
 D:\Code\MySelf\Own\MemberManager\MSM-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.dll
 D:\Code\MySelf\Own\MemberManager\MSM-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.pdb
 D:\Code\MySelf\Own\MemberManager\MSM-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.csproj.CoreCompileInputs.cache
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\bin\Debug\netcoreapp3.1\Mms-Server.deps.json
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\bin\Debug\netcoreapp3.1\Mms-Server.dll
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\bin\Debug\netcoreapp3.1\Mms-Server.pdb
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.csprojAssemblyReference.cache
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.AssemblyInfoInputs.cache
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.AssemblyInfo.cs
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.csproj.CoreCompileInputs.cache
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.dll
+D:\Code\MySelf\Own\MemberManager\mms-Server\Mms-Server\obj\Debug\netcoreapp3.1\Mms-Server.pdb

@@ -1,3 +1,6 @@
-2020-07-01 09:56:59,565 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
-2020-07-01 09:56:59,623 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
-2020-07-01 09:56:59,628 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\MSM-Server\MSM-Server
+2020-09-12 17:18:37,960 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-09-12 17:18:37,970 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-09-12 17:18:37,972 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\mms-Server\MSM-Server
+2020-09-12 17:27:24,260 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-09-12 17:27:24,273 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-09-12 17:27:24,275 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Code\MySelf\Own\MemberManager\mms-Server\MSM-Server
